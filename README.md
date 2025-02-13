@@ -55,5 +55,71 @@ pollution, affecting aquatic life, soil quality, and human health.
 Therefore, this project activity helps reduce the environmental impact by treating wastewater and
 utilizing it for Gardening and agricultural purposes such as Irrigation, further promoting
 sustainability.
+___________
+ISSUANCE DATE: 12/02/2025
 
+QTY: 569135 RoUs
+
+MP-01 PERIOD: 2014-2023
+_________
+Serial Number: 0001-000001-044770-UCR-RoU-IN-463-01012014-31122014
+
+Vintage Year: 2014
+
+Quantity: 44770
+__________
+Serial Number: 0001-044771-107010-UCR-RoU-IN-463-01012015-31122015
+
+Vintage Year: 2015
+
+Quantity: 62240
+___________
+Serial Number: 0001-107011-166633-UCR-RoU-IN-463-01012016-31122016
+
+Vintage Year: 2016
+
+Quantity: 59623
+___________
+Serial Number: 0001-166634-206147-UCR-RoU-IN-463-01012017-31122017
+
+Vintage Year: 2017
+
+Quantity: 39514
+__________
+Serial Number: 0001-206148-287820-UCR-RoU-IN-463-01012018-31122018
+
+Vintage Year: 2018
+
+Quantity: 81673
+__________
+Serial Number: 0001-287821-329627-UCR-RoU-IN-463-01012019-31122019
+
+Vintage Year: 2019
+
+Quantity: 41807
+_________
+Serial Number: 0001-329628-367959-UCR-RoU-IN-463-01012020-31122020
+
+Vintage Year: 2020
+
+Quantity: 38332
+___________
+Serial Number: 0001-367960-436254-UCR-RoU-IN-463-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 68295
+_______
+Serial Number: 0001-436255-508583-UCR-RoU-IN-463-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 72329
+__________
+Serial Number:0001-508584-569135-UCR-RoU-IN-463-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 60552
+_______
 
